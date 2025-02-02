@@ -14,8 +14,8 @@ This project is a **Flask-based Stock Market Data API** that fetches real-time a
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/stock-market-api.git
-cd stock-market-api
+git clone https://github.com/rohandreamerz/StockDataAnalysis.git
+cd StockDataAnalysis
 ```
 
 ### 2️⃣ Install Dependencies
