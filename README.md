@@ -100,7 +100,7 @@ The developers, contributors, and affiliated parties of this AI project are not 
 Regulatory Compliance:
 Users are responsible for ensuring that their use of this AI tool complies with all applicable laws and regulations in their jurisdiction.
 
-By using this AI trading tool, you acknowledge and agree to these terms.
+By using this AI tool, you acknowledge and agree to these terms.
 
 
 
