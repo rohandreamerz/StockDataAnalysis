@@ -89,6 +89,18 @@ Pull requests are welcome! Feel free to fork and improve this project.
 This project is licensed under the **MIT** License.
 
 ## 🚀 Happy Trading! 📊📈
+This AI-powered trading tool is provided for informational and educational purposes only. It does not constitute financial, investment, or trading advice. Users should conduct their own research and consult with a qualified financial professional before making any trading decisions.
+
+Risk Acknowledgment:
+Trading in financial markets involves significant risk and can result in substantial losses. Past performance is not indicative of future results. This AI model does not guarantee accuracy, profitability, or successful trading outcomes.
+
+No Liability:
+The developers, contributors, and affiliated parties of this AI project are not responsible for any financial losses, inaccuracies, or errors that may arise from using this tool. Users assume full responsibility for their trading actions and decisions.
+
+Regulatory Compliance:
+Users are responsible for ensuring that their use of this AI tool complies with all applicable laws and regulations in their jurisdiction.
+
+By using this AI trading tool, you acknowledge and agree to these terms.
 
 
 
